@@ -1,7 +1,29 @@
 /* Style css */
 
+.title-Box {
+    background-color: blue;
+    padding: 3px;
+}
+
+
 .title {
-    padding-left: 50%;
-    padding-right: 50%;
+    text-align: center;
+    color: burlywood;
+    margin: 30px;
+    background-color: cadetblue;
+    padding: 30px;
     
+}
+
+.list-box {
+    padding: 10px;
+    background-color: black;
+    margin: 1px 
+}
+
+.list-item {
+    text-align: center;
+    margin: 10px 300px;
+    padding: 10px;
+    background-color: white;
 }
